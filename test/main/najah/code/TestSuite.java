@@ -8,7 +8,8 @@ import org.junit.platform.suite.api.Suite;
         TestCalculator.class,
         TestProduct.class,
         TestUserService.class,
-        TestRecipeBook.class
+        TestRecipeBook.class,
+        TestRecipe.class
 })
 public class TestSuite {
 }
